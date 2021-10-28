@@ -1,0 +1,19 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+
+#idA {
+    color:blue;
+    font-size: 36px;
+}
+
+.classB {
+    font-size: 24px;
+}
+
+#idB {
+    background-color: lightgreen;
+    font-size:24px;
+    font-weight: bold;
+}
